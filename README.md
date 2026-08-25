@@ -4,3 +4,4 @@ Die Scammaschine-3000 ist ein Schulprojekt von Finn und Frida aus dem Physikprof
 24.August 2026:
 haben wir unser Projekt entschieden. Wir sind zu dem Schluss gekommen, dass wir eine Slot-Maschine aus einem Casino machen wollen. Finn hatte das Problem entdeckt wie man eine Drehbewegung in eine Drückbewegung umwandeln konnte, welche Finn und Frida lösen konnten. 
 
+.
