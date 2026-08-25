@@ -1,4 +1,14 @@
-# Scammaschine-3000-Einarmiger-Bandit-
+<html>
+<head>
+<h1 align="center">Scammaschine-3000-Einarmiger-Bandit</h1> 
+</head>
+<h3 align="center"> Ein Projekt von Finn Henze und Frida Miltsch</h3>
+<h3 align="left">Stormarnschule Ahrensburg <br/> Informatik, Bl <br/> Schuljahr 2026/27, 1. Halbjahr </br> </h3> </div> 
+<br>
+
+## Inhaltsverzeichnis
+
+## Grundidee
 Die Scammaschine-3000 ist ein Schulprojekt von Finn und Frida aus dem Physikprofil der Stormarnschule aus dem Jahr 2026. Wie der Name schon sagt ist es ein Einarmiger Bandit, welcher ein klassischer Glückspielautomat ist mit ein paar Überraschungen. 
 
 ## 24.August 2026:
