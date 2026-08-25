@@ -1,1 +1,3 @@
-# Scammaschine-3000-Einarmiger-BandiT
+# Scammaschine-3000-Einarmiger-Bandit
+
+## Inhaltsverzeichnis 
