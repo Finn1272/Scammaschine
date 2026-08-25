@@ -6,9 +6,18 @@
 <h3 align="left">Stormarnschule Ahrensburg <br/> Informatik, Bl <br/> Schuljahr 2026/27, 1. Halbjahr </br> </h3> </div> 
 <br>
 
-## Inhaltsverzeichnis
-[Grundidee](#gru)
-
+## Übersicht
+<table align="center">
+     
+<tr>
+    <td> <a href="Grundidee"> </a></td>
+    <td> <a href="https://github.com/NTCR7/ProPlant/blob/main/Studenprotokoll.md#stunde-250822"> Stunde 25.08.22 </a></td>
+    <td> <a href="https://github.com/NTCR7/ProPlant/blob/main/Studenprotokoll.md#stunde-290822"> Stunde 29.08.22 </a></td>
+    <td> <a href="https://github.com/NTCR7/ProPlant/blob/main/Studenprotokoll.md#stunde-050922"> Stunde 05.09.22 </a></td>
+    <td> <a href="https://github.com/NTCR7/ProPlant/blob/main/Studenprotokoll.md#stunde-080922"> Stunde 08.09.22 </a></td>
+    <td> <a href="https://github.com/NTCR7/ProPlant/blob/main/Studenprotokoll.md#stunde-120922"> Stunde 12.09.22 </a></td>
+    <td> <a href="https://github.com/NTCR7/ProPlant/blob/main/Studenprotokoll.md#stunde-190922"> Stunde 19.09.22 </a></td>
+    </table>
 
 ## Grundidee<a name="gru"></a>
 Die Scammaschine-3000 ist ein Schulprojekt von Finn und Frida aus dem Physikprofil der Stormarnschule aus dem Jahr 2026. Wie der Name schon sagt ist es ein Einarmiger Bandit, welcher ein klassischer Glückspielautomat ist mit ein paar Überraschungen. 
