@@ -9,13 +9,8 @@
 ## Übersicht
 
 ## Übersicht
-<table align="center">
-     
-<tr>
-    <td> <a href="Grundidee"> Grundidee </a></td>
-  
+## Übersicht
 
-    </table>
 
 ## Grundidee<a name="gru"></a>
 Die Scammaschine-3000 ist ein Schulprojekt von Finn und Frida aus dem Physikprofil der Stormarnschule aus dem Jahr 2026. Wie der Name schon sagt ist es ein Einarmiger Bandit, welcher ein klassischer Glückspielautomat ist mit ein paar Überraschungen. 
