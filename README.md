@@ -1,6 +1,6 @@
 <html>
 <head>
-<h1 align="center">Scammaschine-3000-Einarmiger-Bandit</h1> 
+<h1 align="center">Scammaschine</h1> 
 </head>
 <h3 align="center"> Ein Projekt von Finn Henze und Frida Miltsch</h3>
 <h3 align="left">Stormarnschule Ahrensburg <br/> Informatik, Bl <br/> Schuljahr 2026/27, 1. Halbjahr </br> </h3> </div> 
@@ -13,7 +13,7 @@
 
 
 ## Grundidee<a name="gru"></a>
-Die Scammaschine-3000 ist ein Schulprojekt von Finn und Frida aus dem Physikprofil der Stormarnschule aus dem Jahr 2026. Wie der Name schon sagt ist es ein Einarmiger Bandit, welcher ein klassischer Glückspielautomat ist mit ein paar Überraschungen. 
+Die Scammaschine ist ein Schulprojekt von Finn und Frida aus dem Physikprofil der Stormarnschule aus dem Jahr 2026. Wie der Name schon sagt ist es ein Einarmiger Bandit, welcher ein klassischer Glückspielautomat ist mit ein paar Überraschungen. 
 
 ## 24.August 2026:
 
@@ -21,4 +21,8 @@ Am 24.August 2026 haben wir unser Projekt entschieden. Wir sind zu dem Schluss g
 
 ## 25.August 2026:
 
-Am25.August 2026 wurden die ersten Skizzen angefertigt und die Projektseite erstellt und gestaltet. Finn hatte die Idee eine Standby-Modus zu integrieren wo die Maschine von selbst spielen könnte indem es einen separaten Knopf gibt der einen Befehl an den Arduino gibt und der wiederum diesen Befehl an den Schritttmotor gibt der den Hebel aktiviert der dann die Maschine startet. 
+Am 25.August 2026 wurden die ersten Skizzen angefertigt und die Projektseite erstellt und gestaltet. Finn hatte die Idee eine Standby-Modus zu integrieren wo die Maschine von selbst spielen könnte indem es einen separaten Knopf gibt der einen Befehl an den Arduino gibt und der wiederum diesen Befehl an den Schritttmotor gibt der den Hebel aktiviert der dann die Maschine startet.
+
+## 31. August 2026 
+
+Es wurde entschieden, 
