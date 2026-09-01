@@ -10,10 +10,10 @@
 <table align="center">
      
 <tr>
-   <td> <a href="## Grundidee"> Grundidee </a></td>
-   <td> <a href="## 24.August 2026"> 24.August 2026 </a></td>
-   <td> <a href="## 25.August 2026"> 25.August 2026 </a></td>
-   <td> <a href="## 31.August 2026"> 31.August 2026 </a></td>
+   <td><a href="## Grundidee"> Grundidee </a></td>
+   <td><a href="## 24.August 2026"> 24.August 2026 </a></td>
+   <td><a href="## 25.August 2026"> 25.August 2026 </a></td>
+   <td><a href="## 31.August 2026"> 31.August 2026 </a></td>
 </tr>
  </table>
 
