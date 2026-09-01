@@ -14,6 +14,7 @@
    <td> <a href="## 24.August 2026"> 24.August 2026</a></td>
    <td> <a href="## 25.August 2026"> 25.August 2026</a></td>
    <td> <a href="## 31.August 2026"> 31.August 2026</a></td>
+   <td> <a href="## 1.September 2026"> 1.September 2026</a></td>
 </tr>
  </table>
 
@@ -33,6 +34,6 @@ Am 25.August 2026 wurde die Projektseite erstellt und gestaltet. Finn hatte die 
 
 Es wurde entschieden, dass die Slotmachine nicht realisierbar ist. Die Ausweichidee einer sog. ,,vending machine" zu realisieren. Es wurden erste Skizzen angefertigt und es wurde gecheckt ob die Idee überhaupt machbar sei. Auf der Seite ,,Automatenhandel24.com"  wurden die benötigten Stahlspiralen, zu einem fairen Preis gefunden. Das Problem der Betreibung der Spiralen durch Schrittmotoren wurde gelöst, indem man frei bewegende Schrittmotoren verwendet, welche wir auch zu einem fairen Preis gefunden haben. 
 
-## 1. September 2026
+## <p> <h2> <a id="1.September 2026"> 1.September 2026 </a> </h2>
 
 Finn hat die Read-me Seite weitergebaut und die Einträge mit dem Inhaltsverzeichnis verlinkt.
