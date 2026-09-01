@@ -12,7 +12,7 @@
 <tr>
     <td> <a href="## Grundidee"> Grundidee </a></td>
     <td> <a href="## 24.August 2026"> 24.August 2026</a></td>
-    
+    <td> <a href="## 25.August 2026"> 25.August 2026</a></td>
 </tr>
  </table>
 
@@ -24,7 +24,7 @@ Die Scammaschine ist ein Schulprojekt von Finn und Frida aus dem Physikprofil de
 
 Am 24.August 2026 haben wir unser Projekt entschieden. Wir sind zu dem Schluss gekommen, dass wir eine Slot-Maschine aus einem Casino machen wollen. Finn hatte das Problem entdeckt wie man eine Drehbewegung in eine Drückbewegung umwandeln konnte, welche Finn und Frida lösen konnten. 
 
-## 25.August 2026:
+## <p> <h2> <a id="25.August 2026"> 25.August 2026 </a> </h2> 
 
 Am 25.August 2026 wurde die Projektseite erstellt und gestaltet. Finn hatte die Idee eine Standby-Modus zu integrieren wo die Maschine von selbst spielen könnte indem es einen separaten Knopf gibt der einen Befehl an den Arduino gibt und der wiederum diesen Befehl an den Schritttmotor gibt der den Hebel aktiviert der dann die Maschine startet.
 
