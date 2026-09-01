@@ -14,7 +14,6 @@
    <td> <a href="## 24.August 2026"> 24.August 2026 </a></td>
    <td> <a href="## 25.August 2026"> 25.August 2026 </a></td>
    <td> <a href="## 31.August 2026"> 31.August 2026 </a></td>
-   <td> <a href="## 1.September 2026"> 1.September 2026 </a></td>
 </tr>
  </table>
 
