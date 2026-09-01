@@ -13,6 +13,7 @@
     <td> <a href="## Grundidee"> Grundidee </a></td>
     <td> <a href="## 24.August 2026"> 24.August 2026</a></td>
     <td> <a href="## 25.August 2026"> 25.August 2026</a></td>
+     <td> <a href="## 31.August 2026"> 31.August 2026</a></td>
 </tr>
  </table>
 
@@ -28,7 +29,7 @@ Am 24.August 2026 haben wir unser Projekt entschieden. Wir sind zu dem Schluss g
 
 Am 25.August 2026 wurde die Projektseite erstellt und gestaltet. Finn hatte die Idee eine Standby-Modus zu integrieren wo die Maschine von selbst spielen könnte indem es einen separaten Knopf gibt der einen Befehl an den Arduino gibt und der wiederum diesen Befehl an den Schritttmotor gibt der den Hebel aktiviert der dann die Maschine startet.
 
-## 31. August 2026 
+## ## <p> <h2> <a id="31.August 2026"> 31.August 2026 </a> </h2>
 
 Es wurde entschieden, dass die Slotmachine nicht realisierbar ist. Die Ausweichidee einer sog. ,,vending machine" zu realisieren. Es wurden erste Skizzen angefertigt und es wurde gecheckt ob die Idee überhaupt machbar sei. Auf der Seite ,,Automatenhandel24.com"  wurden die benötigten Stahlspiralen, zu einem fairen Preis gefunden. Das Problem der Betreibung der Spiralen durch Schrittmotoren wurde gelöst, indem man frei bewegende Schrittmotoren verwendet, welche wir auch zu einem fairen Preis gefunden haben. 
 
