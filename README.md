@@ -6,10 +6,12 @@
 <h3 align="left">Stormarnschule Ahrensburg <br/> Informatik, Bl <br/> Schuljahr 2026/27, 1. Halbjahr </br> </h3> </div> 
 <br>
 
-## Übersicht
+## Stundenübersicht
+<table align="center">
+     
 <tr>
-    <td> <a href=" Grundidee"> Grundidee </a></td>
-   
+    <td> <a href="## Grundidee"> Grundidee </a></td>
+    
 </tr>
 
 
