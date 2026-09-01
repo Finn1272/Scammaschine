@@ -16,7 +16,7 @@
 
 
 
-## Grundidee<a name="gru"></a>
+## <p> <h2> <a id="Grundidee"> Grundidee </a> </h2>
 Die Scammaschine ist ein Schulprojekt von Finn und Frida aus dem Physikprofil der Stormarnschule aus dem Jahr 2026. Es ist ein Verkaufsautomat, welcher mehrere Slots hat. Man wählt aus welchen Slot man auswählen möchte und das Gerät spuckt den Inhalt des Slots aus. 
 
 ## 24.August 2026:
