@@ -13,7 +13,7 @@
     <td> <a href="## Grundidee"> Grundidee </a></td>
     
 </tr>
-
+ </table>
 
 
 ## <p> <h2> <a id="Grundidee"> Grundidee </a> </h2>
