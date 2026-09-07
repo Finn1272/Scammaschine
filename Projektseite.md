@@ -25,3 +25,4 @@ Finn und Frida haben sich im Informatikunterricht zusammengeschlossen, um eine S
 
 
 ### Einführung in das Projekt<a name="einf"></a> 
+Unsere Scammaschine ist ein Verkaufsautomat, in dem wir TicTac Packungen und weitere kleinere Snacks als Produkte anbieten. Man kann per Tasten auswählen welches Produkt man sich wünscht. Dieses fällt dann aus der Spirale raus und man kann es einer Öffnung entnehmen. 
