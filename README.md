@@ -15,6 +15,7 @@
      <td><a href="#260903"> 25.August 2026 </a></td>
      <td><a href="#260902"> 31.August 2026 </a></td>
      <td><a href="#260901"> 1. September 2026 </a></td>
+     <td><a href="#260906"> 7. September 2026 </a></td>
 </tr>
  </table>
 
@@ -37,3 +38,7 @@ Es wurde entschieden, dass die Slotmachine nicht realisierbar ist. Die Ausweichi
 ## <h2 id="260901"> 1.September 2026 </h2>
 
 Finn hat die Read-me Seite weitergebaut und die Einträge mit dem Inhaltsverzeichnis verlinkt.
+
+## <h2 id="260906"> 7.September 2026 </h2>
+
+Frida hat alleine weiter an der Projektseite und am Arbeitstagebuch gearbeitet.
