@@ -24,7 +24,7 @@
 <details>
 <summary> Einführung in das Projekt</summary>
 
-#### Unsere Scammaschine ist ein Verkaufsautomat, in dem wir TicTac Packungen und weitere kleinere Snacks als Produkte anbieten. Man kann per Tasten auswählen welches Produkt man sich wünscht. Dieses fällt dann aus der Spirale raus und man kann es einer Öffnung entnehmen. 
+#### Unsere Scammaschine ist ein Verkaufsautomat, in dem wir TicTac Packungen und weitere kleinere Snacks, als Produkte anbieten. Man kann per Tasten auswählen welches Produkt man sich wünscht. Dieses fällt dann aus der Spirale raus und man kann es aus einer Öffnung entnehmen. 
   
 </details>
 
