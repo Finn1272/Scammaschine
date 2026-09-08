@@ -7,30 +7,29 @@
 <br>
 
 ## Inhaltsverzeichnis
-[Über die Entwickler](#ent)
+[1.Einleitung](#einf)
 
-[Einführung in das Projekt](#einf)
+[2.technische Umsetzung](#1)
 
+[3.Reflexion](#2)
 
-
-
-## Einleitung
+## Einleitung<a name="einf"></a>
 <details>
 <summary> über die Entwickler</summary>
   
-Finn und Frida haben sich im Informatikunterricht zusammengeschlossen, um eine Slotmaschine zu bauen wie man sie aus einem Casino kennt. Da beide von ihnen im Informatikunterricht von Hernn Buhl in der 10. Klasse waren hatten sie beide gute Vorkenntnisse m dieses Projekt zu verwirklichen. 
+#### Finn und Frida haben sich im Informatikunterricht zusammengeschlossen, um eine Slotmaschine zu bauen wie man sie aus einem Casino kennt. Da beide von ihnen im Informatikunterricht von Hernn Buhl in der 10. Klasse waren hatten sie beide gute Vorkenntnisse m dieses Projekt zu verwirklichen. 
 
 </details>
 
 <details>
 <summary> Einführung in das Projekt</summary>
 
-Unsere Scammaschine ist ein Verkaufsautomat, in dem wir TicTac Packungen und weitere kleinere Snacks als Produkte anbieten. Man kann per Tasten auswählen welches Produkt man sich wünscht. Dieses fällt dann aus der Spirale raus und man kann es einer Öffnung entnehmen. 
+#### Unsere Scammaschine ist ein Verkaufsautomat, in dem wir TicTac Packungen und weitere kleinere Snacks als Produkte anbieten. Man kann per Tasten auswählen welches Produkt man sich wünscht. Dieses fällt dann aus der Spirale raus und man kann es einer Öffnung entnehmen. 
   
 </details>
 
 
-##  Die technische Umsetzung
+## <a name="1"></a>Die technische Umsetzung
 <details>
 <summary> Verwendete Programme</summary>
 
@@ -55,7 +54,7 @@ Unsere Scammaschine ist ein Verkaufsautomat, in dem wir TicTac Packungen und wei
  
 </details>
 
-## Reflexion 
+## <a name="2"></a>Reflexion 
 
 
 
