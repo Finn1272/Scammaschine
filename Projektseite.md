@@ -17,7 +17,7 @@
 <details>
 <summary> über die Entwickler</summary>
   
-#### Finn und Frida haben sich im Informatikunterricht zusammengeschlossen, um eine Slotmaschine zu bauen wie man sie aus einem Casino kennt. Da beide von ihnen im Informatikunterricht von Hernn Buhl in der 10. Klasse waren hatten sie beide gute Vorkenntnisse m dieses Projekt zu verwirklichen. 
+#### Finn und Frida haben sich im Informatikunterricht zusammengeschlossen, um eine vending machine zu bauen wie man sie aus dem Alltag kennt als Snackautomaten. Da beide von ihnen im Informatikunterricht von Hernn Buhl in der 10. Klasse waren, hatten sie beide gute Vorkenntnisse, um dieses Projekt zu verwirklichen. 
 
 </details>
 
