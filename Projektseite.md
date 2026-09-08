@@ -14,15 +14,49 @@
 
 
 
-
-
-
-### Über die Entwickler<a name="ent"></a>
+## Einleitung
+<details>
+<summary> über die Entwickler</summary>
+  
 Finn und Frida haben sich im Informatikunterricht zusammengeschlossen, um eine Slotmaschine zu bauen wie man sie aus einem Casino kennt. Da beide von ihnen im Informatikunterricht von Hernn Buhl in der 10. Klasse waren hatten sie beide gute Vorkenntnisse m dieses Projekt zu verwirklichen. 
 
+</details>
 
+<details>
+<summary> Einführung in das Projekt</summary>
 
-
-
-### Einführung in das Projekt<a name="einf"></a> 
 Unsere Scammaschine ist ein Verkaufsautomat, in dem wir TicTac Packungen und weitere kleinere Snacks als Produkte anbieten. Man kann per Tasten auswählen welches Produkt man sich wünscht. Dieses fällt dann aus der Spirale raus und man kann es einer Öffnung entnehmen. 
+  
+</details>
+
+
+##  Die technische Umsetzung
+<details>
+<summary> Verwendete Programme</summary>
+
+#### *Die Grundlage - der Arduino*
+ 
+ 
+</details>
+
+<details>
+<summary> Hardware</summary>
+
+#### **
+ 
+ 
+</details>
+
+<details>
+<summary> Software</summary>
+
+#### **
+ 
+ 
+</details>
+
+## Reflexion 
+
+
+
+
