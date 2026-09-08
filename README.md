@@ -41,4 +41,8 @@ Finn hat die Read-me Seite weitergebaut und die Einträge mit dem Inhaltsverzeic
 
 ## <h2 id="260906"> 7.September 2026 </h2>
 
-Frida hat alleine weiter an der Projektseite und am Arbeitstagebuch gearbeitet.
+Frida hat alleine weiter an der Projektseite und an der Struktur des Arbeitstagebuches gearbeitet.
+
+## <h2 id="260906"> 8.September 2026 </h2>
+
+Frida hat die Projektseite fertig strukturiert und angefangen auf Tinkercad den Knopf Mechanismus mit den Arduino zu programmieren. Uns fehlen noch viele Bauteile. Diese müssen wir noch besorgen bevor wir mit dem Bau anfangen können. Hoffentlich ist dies nächste Woche möglich.
