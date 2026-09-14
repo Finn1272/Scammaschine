@@ -15,8 +15,12 @@
      <td><a href="#260903"> 25.August 2026 </a></td>
      <td><a href="#260902"> 31.August 2026 </a></td>
      <td><a href="#260901"> 1. September 2026 </a></td>
-     <td><a href="#260906"> 7. September 2026 </a></td>
-     <td><a href="#260914"> 14.September 2026 </a></td>
+     <td><a href="#260907"> 7. September 2026 </a></td>
+     <td><a href="#260908"> 8.September 2026 </a></td>
+</tr>
+</tr>
+<td><a href="#260914"> 14.September 2026 </a></td>
+
 </tr>
  </table>
 
@@ -40,11 +44,11 @@ Es wurde entschieden, dass die Slotmachine nicht realisierbar ist. Die Ausweichi
 
 Finn hat die Read-me Seite weitergebaut und die Einträge mit dem Inhaltsverzeichnis verlinkt.
 
-## <h2 id="260906"> 7.September 2026 </h2>
+## <h2 id="260907"> 7.September 2026 </h2>
 
 Frida hat alleine weiter an der Projektseite und an der Struktur des Arbeitstagebuches gearbeitet.
 
-## <h2 id="260906"> 8.September 2026 </h2>
+## <h2 id="260908"> 8.September 2026 </h2>
 
 Frida hat die Projektseite fertig strukturiert und angefangen auf Tinkercad den Knopf Mechanismus mit den Arduino zu programmieren. Uns fehlen noch viele Bauteile. Diese müssen wir noch besorgen bevor wir mit dem Bau anfangen können. Hoffentlich ist dies nächste Woche möglich.
 
