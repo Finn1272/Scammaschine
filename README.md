@@ -16,6 +16,7 @@
      <td><a href="#260902"> 31.August 2026 </a></td>
      <td><a href="#260901"> 1. September 2026 </a></td>
      <td><a href="#260906"> 7. September 2026 </a></td>
+     <td><a href="#260914"> 14.September 2026 </a></td>
 </tr>
  </table>
 
@@ -46,3 +47,10 @@ Frida hat alleine weiter an der Projektseite und an der Struktur des Arbeitstage
 ## <h2 id="260906"> 8.September 2026 </h2>
 
 Frida hat die Projektseite fertig strukturiert und angefangen auf Tinkercad den Knopf Mechanismus mit den Arduino zu programmieren. Uns fehlen noch viele Bauteile. Diese müssen wir noch besorgen bevor wir mit dem Bau anfangen können. Hoffentlich ist dies nächste Woche möglich.
+
+## <h2 id="260914"> 14.September 2026 </h2>
+Frida und Finn haben eine Einkaufsliste erstellt mit Kostenabschätzungen.
+
+
+
+
