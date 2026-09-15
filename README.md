@@ -55,12 +55,13 @@ Frida hat die Projektseite fertig strukturiert und angefangen auf Tinkercad den 
 ## <h2 id="260914"> 14.September 2026 </h2>
 Frida und Finn haben eine Einkaufsliste erstellt mit Kostenabschätzungen.
 
-Spiralen 4x https://automatenhandel24.com/products/spiralen-fur-sanden-vendo-g-snack-aktion -> 19,60 Euro
+Spiralen 4x https://automatenhandel24.com/products/spiralen-fur-sanden-vendo-g-snack-aktion -> ca. 19,60 Euro
 
-Nema 17 Schrittmotoren 4x https://www.ebay.de/itm/136300683894 -> 15 Euro
+Nema 17 Schrittmotoren 4x https://www.ebay.de/itm/136300683894 -> ca. 15 Euro
 
-Steppertreiber A4988 1x https://arduino-projekte.info/products/steppertreiber-a4988 -> 3 Euro
+Steppertreiber A4988 1x https://arduino-projekte.info/products/steppertreiber-a4988 -> ca. 3 Euro
 
+Preis insgesamt: 37,60 Euro
 
 
 
