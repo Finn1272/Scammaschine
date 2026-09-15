@@ -55,13 +55,13 @@ Frida hat die Projektseite fertig strukturiert und angefangen auf Tinkercad den 
 ## <h2 id="260914"> 14.September 2026 </h2>
 Frida und Finn haben eine Einkaufsliste erstellt mit Kostenabschätzungen.
 
-Spiralen Abstand: 25 2x https://automatenhandel24.com/products/spiralen-fur-sanden-vendo-g-snack-aktion -> ca. 19,60 Euro
+Spiralen Abstand: 25 2x https://automatenhandel24.com/products/spiralen-fur-sanden-vendo-g-snack-aktion -> ca. 9,80 Euro
 
 Nema 17 Schrittmotoren 2x https://www.reichelt.de/de/de/shop/produkt/schrittmotor_4_pol_1_8_2_55_v_dc-229318 -> ca. 20 Euro
 
 CNC-Shield 1x + Steppertreiber 4x https://www.amazon.de/AZDelivery-Shield-Bundle-St%C3%BCck-Parent/dp/B07D11YR6N?th=1 -> 7,69 Euro
 
-Preis insgesamt: 47,29
+Preis insgesamt: 37,49
 
 
 ## <h2 id="260915"> 15.September 2026 </h2>
