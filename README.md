@@ -59,9 +59,9 @@ Spiralen Abstand: 25 4x https://automatenhandel24.com/products/spiralen-fur-sand
 
 Nema 17 Schrittmotoren 4x https://www.ebay.de/itm/136300683894 -> ca. 15 Euro
 
-Steppertreiber A4988 1x https://arduino-projekte.info/products/steppertreiber-a4988 -> ca. 3 Euro
+Steppertreiber A4988 4x https://arduino-projekte.info/products/steppertreiber-a4988 -> ca. 12 Euro
 
-Preis insgesamt: 37,60 Euro
+Preis insgesamt: 46,60 Euro
 
 
 
