@@ -55,13 +55,14 @@ Frida hat die Projektseite fertig strukturiert und angefangen auf Tinkercad den 
 ## <h2 id="260914"> 14.September 2026 </h2>
 Frida und Finn haben eine Einkaufsliste erstellt mit Kostenabschätzungen.
 
-Spiralen Abstand: 25 4x https://automatenhandel24.com/products/spiralen-fur-sanden-vendo-g-snack-aktion -> ca. 19,60 Euro
+Spiralen Abstand: 25 2x https://automatenhandel24.com/products/spiralen-fur-sanden-vendo-g-snack-aktion -> ca. 19,60 Euro
 
-Nema 17 Schrittmotoren 4x https://www.ebay.de/itm/136300683894 -> ca. 15 Euro
+Nema 17 Schrittmotoren 2x https://www.reichelt.de/de/de/shop/produkt/schrittmotor_4_pol_1_8_2_55_v_dc-229318 -> ca. 20 Euro
 
-Steppertreiber A4988 4x https://arduino-projekte.info/products/steppertreiber-a4988 -> ca. 12 Euro
+CNC-Shield 1x + Steppertreiber 4x https://www.amazon.de/AZDelivery-Shield-Bundle-St%C3%BCck-Parent/dp/B07D11YR6N?th=1 -> 7,69 Euro
 
-anderen steppermotoren https://arduino-projekte.info/products/schrittmotor-nema-17-42bygh48-1704a-0-5nm-1-7a-stepper-motor
+Preis insgesamt: 47,29
+
 
 ## <h2 id="260915"> 15.September 2026 </h2>
 Es wurde die Liste mit den Materialien, die benötigt werden, überarbeitet und es wurde ein Problem entdeckt. Dieses Problem umfasste, die Stromversorgung der Schrittmotoren. Da wir größere Schrittmotoren benötigen, brauchen wir auch mehr Stromstärke, um sie zu betreiben. Herr Buhl hatte die Idee ein Netzteil für LED-Lampen zu verwenden. Durch dieses gelangt genug Stromstärke in die Motoren, sodass sie bewegt werden, aber gleichzeitig wird nicht zu viel Volt transportiert. 
