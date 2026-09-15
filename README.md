@@ -64,4 +64,4 @@ Steppertreiber A4988 4x https://arduino-projekte.info/products/steppertreiber-a4
 anderen steppermotoren https://arduino-projekte.info/products/schrittmotor-nema-17-42bygh48-1704a-0-5nm-1-7a-stepper-motor
 
 ## <h2 id="260915"> 15.September 2026 </h2>
-df
+Es wurde die Liste mit den Materialien, die benötigt werden, überarbeitet und es wurde ein Problem entdeckt. Dieses Problem umfasste, die Stromversorgung der Schrittmotoren. Da wir größere Schrittmotoren benötigen, brauchen wir auch mehr Stromstärke, um sie zu betreiben. Herr Buhl hatte die Idee ein Netzteil für LED-Lampen zu verwenden. Durch dieses gelangt genug Stromstärke in die Motoren, sodass sie bewegt werden, aber gleichzeitig wird nicht zu viel Volt transportiert. 
