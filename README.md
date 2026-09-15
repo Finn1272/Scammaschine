@@ -61,7 +61,7 @@ Nema 17 Schrittmotoren 4x https://www.ebay.de/itm/136300683894 -> ca. 15 Euro
 
 Steppertreiber A4988 4x https://arduino-projekte.info/products/steppertreiber-a4988 -> ca. 12 Euro
 
-Preis insgesamt: 46,60 Euro
+anderen steppermotoren https://arduino-projekte.info/products/schrittmotor-nema-17-42bygh48-1704a-0-5nm-1-7a-stepper-motor
 
 
 
