@@ -59,7 +59,7 @@ Spiralen Abstand: 25 2x https://automatenhandel24.com/products/spiralen-fur-sand
 
 Nema 17 Schrittmotoren 2x https://www.reichelt.de/de/de/shop/produkt/schrittmotor_4_pol_1_8_2_55_v_dc-229318 -> ca. 20 Euro
 
-CNC-Shield 1x + Steppertreiber 4x https://www.amazon.de/AZDelivery-Shield-Bundle-St%C3%BCck-Parent/dp/B07D11YR6N?th=1 -> 7,69 Euro
+CNC-Shield 1x + Steppertreiber 4x https://de.aliexpress.com/item/1005007611906813.html?spm=a2g0o.productlist.main.2.c813cE89cE891R&algo_pvid=3d300ffe-bbbb-4a8f-b3a4-d059257baa47&algo_exp_id=3d300ffe-bbbb-4a8f-b3a4-d059257baa47-1&pdp_ext_f=%7B%22order%22%3A%22420%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%211.22%211.19%21%21%211.37%211.34%21%402103849717899908889031366e1323%2112000041500727035%21sea%21DE%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A1fafefc7%3Bm03_new_user%3A-29895&curPageLogUid=LopWwf4AZqso&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007611906813%7C_p_origin_prod%3A -> 7,69 Euro
 
 Preis insgesamt: 37,49
 
