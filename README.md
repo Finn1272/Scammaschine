@@ -72,4 +72,4 @@ Es wurde die Liste mit den Materialien, die benötigt werden, überarbeitet und 
 
 Finn und Frieda haben nach einer Wellenkupplung gesucht, welche mit den Spiralen und den Schrittmotoren kompatibel sind. Das Team ist dan auf die Wellenkupplung von Makermind gestoßen, welche die Anforderungen erfüllt. 
 
-Wellenkupplung 2x :https://www.roboter-bausatz.de/p/wellenkupplung-5mm-auf-8mm?ref=ga&gad_source=1&gad_campaignid=12461217733&gbraid=0AAAAADKFiCDDNm46ZZ9JgtqDbVkeRUiin&gclid=EAIaIQobChMIs-LwmJ7wlgMVTqODBx1eMAPdEAQYASABEgLyOPD_BwE -> ca. 4 EUro
+Wellenkupplung 2x :https://www.roboter-bausatz.de/p/wellenkupplung-5mm-auf-8mm?ref=ga&gad_source=1&gad_campaignid=12461217733&gbraid=0AAAAADKFiCDDNm46ZZ9JgtqDbVkeRUiin&gclid=EAIaIQobChMIs-LwmJ7wlgMVTqODBx1eMAPdEAQYASABEgLyOPD_BwE -> ca. 4 Euro
