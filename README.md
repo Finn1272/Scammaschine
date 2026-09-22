@@ -22,6 +22,7 @@
 <td><a href="#260914"> 14.September 2026 </a></td>
 <td><a href="#260915"> 15.Septmeber 2026 </a></td>
 <td><a href="#260921"> 21.September 2026 </a></td>
+<td><a href="#260922"> 22.September 2026 </a></td>
 </tr>
  </table>
 
@@ -69,10 +70,11 @@ Preis insgesamt: 37,49
 Es wurde die Liste mit den Materialien, die benötigt werden, überarbeitet und es wurde ein Problem entdeckt. Dieses Problem umfasste, die Stromversorgung der Schrittmotoren. Da wir größere Schrittmotoren benötigen, brauchen wir auch mehr Stromstärke, um sie zu betreiben. Herr Buhl hatte die Idee ein Netzteil für LED-Lampen zu verwenden. Durch dieses gelangt genug Stromstärke in die Motoren, sodass sie bewegt werden, aber gleichzeitig wird nicht zu viel Volt transportiert. 
 
 
-## <h2 id="260921"> 21. September </h2>
+## <h2 id="260921"> 21. September 2026 </h2>
 
-Finn und Frieda haben nach einer Wellenkupplung gesucht, welche mit den Spiralen und den Schrittmotoren kompatibel sind. Das Team ist dan auf die Wellenkupplung von Makermind gestoßen, welche die Anforderungen erfüllt. 
+Finn und Frida haben nach einer Wellenkupplung gesucht, welche mit den Spiralen und den Schrittmotoren kompatibel sind. Das Team ist dan auf die Wellenkupplung von Makermind gestoßen, welche die Anforderungen erfüllt. 
 
 Wellenkupplung 2x :https://www.roboter-bausatz.de/p/wellenkupplung-5mm-auf-8mm?ref=ga&gad_source=1&gad_campaignid=12461217733&gbraid=0AAAAADKFiCDDNm46ZZ9JgtqDbVkeRUiin&gclid=EAIaIQobChMIs-LwmJ7wlgMVTqODBx1eMAPdEAQYASABEgLyOPD_BwE -> ca. 4 Euro
 
-
+## <h2 id="260922"> 22.September 2026 </h2>
+fggt
