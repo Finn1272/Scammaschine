@@ -77,4 +77,4 @@ Finn und Frida haben nach einer Wellenkupplung gesucht, welche mit den Spiralen 
 Wellenkupplung 2x :https://www.roboter-bausatz.de/p/wellenkupplung-5mm-auf-8mm?ref=ga&gad_source=1&gad_campaignid=12461217733&gbraid=0AAAAADKFiCDDNm46ZZ9JgtqDbVkeRUiin&gclid=EAIaIQobChMIs-LwmJ7wlgMVTqODBx1eMAPdEAQYASABEgLyOPD_BwE -> ca. 4 Euro
 
 ## <h2 id="260922"> 22.September 2026 </h2>
-fggt
+Frida und Finn haben das Eingabefeld skizziert und entwickelt.
