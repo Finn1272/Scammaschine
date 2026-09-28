@@ -23,6 +23,7 @@
 <td><a href="#260915"> 15.Septmeber 2026 </a></td>
 <td><a href="#260921"> 21.September 2026 </a></td>
 <td><a href="#260922"> 22.September 2026 </a></td>
+<td><a href="#260928"> 28.September 2026 </a></td>
 </tr>
  </table>
 
@@ -78,3 +79,8 @@ Wellenkupplung 2x :https://www.roboter-bausatz.de/p/wellenkupplung-5mm-auf-8mm?r
 
 ## <h2 id="260922"> 22.September 2026 </h2>
 Frida und Finn haben das Eingabefeld skizziert und entwickelt. Es wurde außerdem mit Herrn Buhl abgestimmt welche Teile bestellt werden und welche passen. Es wurde auch ein Problem mit der Kupplung entdeckt, welches man mit einer 3D gedruckten Übersetzungsteil gelöst werden konnte.
+
+
+## <h2 id="260928"> 28.September 2026 </h2>
+
+poc
