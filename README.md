@@ -83,4 +83,4 @@ Frida und Finn haben das Eingabefeld skizziert und entwickelt. Es wurde außerde
 
 ## <h2 id="260928"> 28.September 2026 </h2>
 
-poc
+Es wurden 
