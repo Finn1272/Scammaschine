@@ -24,6 +24,8 @@
 <td><a href="#260921"> 21.September 2026 </a></td>
 <td><a href="#260922"> 22.September 2026 </a></td>
 <td><a href="#260928"> 28.September 2026 </a></td>
+<td><a href="#260929"> 29.September 2026 </a></td>
+<td><a href="#260930"> 05.Oktober 2026 </a></td>
 </tr>
  </table>
 
@@ -82,5 +84,11 @@ Frida und Finn haben das Eingabefeld skizziert und entwickelt. Es wurde außerde
 
 
 ## <h2 id="260928"> 28.September 2026 </h2>
+Wir haben angefangen schon erste Mechanismen mit Arduino zu programmieren und zu bauen. Zum Beispiel haben wir einen Motor bewegt.
 
-Es wurden 
+## <h2 id="260929"> 29.September 2026 </h2>
+Es wurde weiter an den verschiedenen Mechanismen gearbeitet. Wir haben nun den push button eingefügt und programmiert. 
+
+## <h2 id="260930"> 05.Oktober 2026 </h2>
+
+
