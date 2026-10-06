@@ -27,6 +27,8 @@
 <td><a href="#260929"> 29.September 2026 </a></td>
 <td><a href="#260930"> 05.Oktober 2026 </a></td>
 </tr>
+</tr>
+<td><a href="#260930"> 06.Oktober 2026 </a></td>
  </table>
 
 
@@ -90,5 +92,8 @@ Wir haben angefangen schon erste Mechanismen mit Arduino zu programmieren und zu
 Es wurde weiter an den verschiedenen Mechanismen gearbeitet. Wir haben nun den push button eingefügt und programmiert. 
 
 ## <h2 id="260930"> 05.Oktober 2026 </h2>
+Wir haben angefangen einen Relais zu programmieren und zu verbinden mit den Arduino.
 
+## <h2 id="260930"> 06.Oktober 2026 </h2>
+Es wurde weiter gearbeitet an dem Relais und Led Glühbirnen Verbindung.
 
