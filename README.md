@@ -29,6 +29,7 @@
 </tr>
 </tr>
 <td><a href="#260930"> 06.Oktober 2026 </a></td>
+<td><a href="#261026"> 26.Oktober 2026</a></td>
  </table>
 
 
@@ -97,3 +98,5 @@ Wir haben angefangen einen Relais zu programmieren und zu verbinden mit den Ardu
 ## <h2 id="260930"> 06.Oktober 2026 </h2>
 Es wurde weiter gearbeitet an dem Relais und Led Glühbirnen Verbindung.
 
+## <h2 id="261026"> 26.Oktober 2026 </h2> 
+Nach Beendigung des schulischen Ferienzeitraumes hat das Team an der Steuerung gearbeitet digital wie analog. 
