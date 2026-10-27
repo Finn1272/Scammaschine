@@ -30,6 +30,7 @@
 </tr>
 <td><a href="#260930"> 06.Oktober 2026 </a></td>
 <td><a href="#261026"> 26.Oktober 2026</a></td>
+<td><a href="#261026"> 27.Oktober 2026</a></td>
  </table>
 
 
@@ -100,3 +101,6 @@ Es wurde weiter gearbeitet an dem Relais und Led Glühbirnen Verbindung.
 
 ## <h2 id="261026"> 26.Oktober 2026 </h2> 
 Nach Beendigung des schulischen Ferienzeitraumes hat das Team an der Steuerung gearbeitet digital wie analog. 
+
+## <h2 id="261026"> 26.Oktober 2026 </h2> 
+Frida hat alleine weiter gearbeitet an dem Eingabe pad, weil Finn bei der Klassensprecher Versammlung ist. Der Code ist programmiert wurden und erfolgreich funktioniert die Eingabe. Als nächstes ist vorgesehen das Eingabepad mit dem Relais zu verbinden, damit man durch eine Eingabe, den Relais schaltet und somit die Motoren schaltet.
