@@ -28,9 +28,10 @@
 <td><a href="#260930"> 05.Oktober 2026 </a></td>
 </tr>
 </tr>
-<td><a href="#260930"> 06.Oktober 2026 </a></td>
+<td><a href="#260906"> 06.Oktober 2026 </a></td>
 <td><a href="#261026"> 26.Oktober 2026</a></td>
-<td><a href="#261026"> 27.Oktober 2026</a></td>
+<td><a href="#261027"> 27.Oktober 2026</a></td>
+<td><a href="#261023"> 03.November 2026</a></td>
  </table>
 
 
@@ -96,11 +97,16 @@ Es wurde weiter an den verschiedenen Mechanismen gearbeitet. Wir haben nun den p
 ## <h2 id="260930"> 05.Oktober 2026 </h2>
 Wir haben angefangen einen Relais zu programmieren und zu verbinden mit den Arduino.
 
-## <h2 id="260930"> 06.Oktober 2026 </h2>
+## <h2 id="260906"> 06.Oktober 2026 </h2>
 Es wurde weiter gearbeitet an dem Relais und Led Glühbirnen Verbindung.
 
 ## <h2 id="261026"> 26.Oktober 2026 </h2> 
 Nach Beendigung des schulischen Ferienzeitraumes hat das Team an der Steuerung gearbeitet digital wie analog. 
 
-## <h2 id="261026"> 26.Oktober 2026 </h2> 
+## <h2 id="261027"> 27.Oktober 2026 </h2> 
 Frida hat alleine weiter gearbeitet an dem Eingabe pad, weil Finn bei der Klassensprecher Versammlung ist. Der Code ist programmiert wurden und erfolgreich funktioniert die Eingabe. Als nächstes ist vorgesehen das Eingabepad mit dem Relais zu verbinden, damit man durch eine Eingabe, den Relais schaltet und somit die Motoren schaltet.
+
+## <h2 id="261023"> 3.November 2026 </h2> 
+Wir haben das Schalten des Relais mit LED Lampen fertiggestellt und das Eingabepad damit verbunden, sodass wenn eine richtige Eingabe eingegeben wird z.B. B1, der Relais schaltet und somit eine LED Lampe leuchtet.
+
+
