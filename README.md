@@ -109,4 +109,5 @@ Frida hat alleine weiter gearbeitet an dem Eingabe pad, weil Finn bei der Klasse
 ## <h2 id="261023"> 3.November 2026 </h2> 
 Wir haben das Schalten des Relais mit LED Lampen fertiggestellt und das Eingabepad damit verbunden, sodass wenn eine richtige Eingabe eingegeben wird z.B. B1, der Relais schaltet und somit eine LED Lampe leuchtet.
 
+## <h2 id="261109"> 9.November 2026 </h2>
 
