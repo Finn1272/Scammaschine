@@ -34,8 +34,8 @@
 <summary> Verwendete Programme</summary>
 
 #### *Die Grundlage - der Arduino*
- 
- 
+Als erstes Unterprojekt haben wir eine Konstruktion mit Relais, LEDs und Eingabepad programmiert. Eine LED leuchtet, wenn das Relais an ist und die andere leuchtet, wenn das Relais aus ist. Mit dem Eingabepad schaltet man das Relais an/aus. Drückt man B1 ist das Relais an und bei A2 ist es aus. Hier ist ein Video, das die Konstruktion darstellt + unser Arduino Code:
+
 </details>
 
 <details>
