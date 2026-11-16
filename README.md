@@ -34,6 +34,7 @@
 <td><a href="#261023"> 03.November 2026</a></td>
 <td><a href="#261109"> 09.November 2026</a></td>
 <td><a href="#261110"> 10.November 2026</a></td>
+<td><a href="#261116"> 16.November 2026</a></td>
  </table>
 
 
@@ -116,3 +117,5 @@ Wir haben weiter an der Relais LED Lampen Verbindung gearbeitet. Zurzeit haben w
 
 ## <h2 id="261110"> 10.November 2026 </h2>
 Das Problem wurde behoben. Wir haben erfolgreich das abwechselnde Leuchten der LEDS programmiert mit dem Schalten des Relais. Nun verbinden wir zuerst unsere Konstruktion mit zwei Schrittmotoren, um danach die Nema 17 Motoren sicher anzuschließen.
+
+## <h2 id="261116"> 16.November 2026 </h2>
