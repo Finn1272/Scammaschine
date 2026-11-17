@@ -119,3 +119,8 @@ Wir haben weiter an der Relais LED Lampen Verbindung gearbeitet. Zurzeit haben w
 Das Problem wurde behoben. Wir haben erfolgreich das abwechselnde Leuchten der LEDS programmiert mit dem Schalten des Relais. Nun verbinden wir zuerst unsere Konstruktion mit zwei Schrittmotoren, um danach die Nema 17 Motoren sicher anzuschließen.
 
 ## <h2 id="261116"> 16.November 2026 </h2>
+
+Finn und Frieda haben angefangen das Proof of Concept zu bauen, sodass zwei Schrittmotoren mit einem Numberpad zu Bedienen mit zwei Relays.
+## <h2 id="261117"> 117.November 2026 </h2>
+
+Finn hat das Proof of concept weitergebaut und fast fertig gestellt. Frieda war and diesem Tage krank und konnte deswegen nicht mitarbeiten. 
